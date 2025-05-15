@@ -2,8 +2,9 @@
  <h3 align="center">A passionate web developer from Ethiopia</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=degnethab&label=Profile%20views&color=0e75b6&style=flat" alt="degnethab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=degnethab" alt="degnethab" /></a> </p>
 
+ 
+ 
 - 📫 How to reach me **dagihabtamu24@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
