@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="100"></h2>
 </em></p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hey+there!+I+am+Degnet+Habtamu%3CI+am+a+software+Engineering+student+at+Bahir+Dar+Universty.)](https://git.io/typing-svg) 
  <h3 align="center">A passionate web developer from Ethiopia</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degnethab&label=Profile%20views&color=0e75b6&style=flat" alt="degnethab" /> </p>
