@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
-</em></p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hey+there!+I+am+Degnet+Habtamu%3CI+am+a+software+Engineering+student+at+Bahir+Dar+Universty.)](https://git.io/typing-svg) 
- <h3 align="center"> Web developer from Ethiopia</h3> 
+</em></p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hey+there!+I+am+Degnet+Habtamu%3Csoftware+Engineer )](https://git.io/typing-svg) 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degnethab&label=Profile%20views&color=0e75b6&style=flat" alt="degnethab" /> </p>
 
 - 📫 How to reach me **dagihabtamu24@gmail.com**
@@ -13,11 +13,4 @@
  <a href="https://www.youtube.com/@degnet-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="degnet-16" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=degnethab&show_icons=true&locale=en&layout=compact" alt="degnethab" /></p>
-
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=degnethab&show_icons=true&locale=en&layout=compact" alt="degnethab" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=degnethab&show_icons=true&locale=en" alt="degnethab" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=degnethab&" alt="degnethab" /></p>
